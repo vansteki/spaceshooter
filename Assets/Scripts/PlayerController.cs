@@ -13,6 +13,7 @@ public class PlayerController : MonoBehaviour {
 	public float tilt;
 	public Transform shotSpawn;
 	public GameObject shot;
+
 //	static Rigidbody spaceship = GetComponent<Rigidbody>();
 	public float fireRate;
 	private float nextFire;
