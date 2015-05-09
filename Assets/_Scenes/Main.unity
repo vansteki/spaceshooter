@@ -236,7 +236,7 @@ MonoBehaviour:
   hazardCount: 5
   spawnWait: .5
   startWait: 1
-  waveWait: 0
+  waveWait: 4
 --- !u!4 &477305126
 Transform:
   m_ObjectHideFlags: 0
